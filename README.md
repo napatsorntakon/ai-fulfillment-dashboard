@@ -67,7 +67,7 @@ Synthetic fulfillment dataset (500 rows) containing:
 
 Please use this sample dataset for the demo:
 
-[fulfillment_dummy_500_rows.csv](https://github.com/napatsorntakon/ai-fulfillment-dashboard/blob/main/fulfillment_dummy_500_rows.csv)
+👉 [fulfillment_dummy_500_rows.csv](https://github.com/napatsorntakon/ai-fulfillment-dashboard/blob/main/fulfillment_dummy_500_rows.csv)
 
 👉 https://ai-fulfillment-dashboardgit-5bgj3h7jo6wa5eshnkga5v.streamlit.app/
 
